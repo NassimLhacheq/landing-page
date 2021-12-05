@@ -1,0 +1,226 @@
+.styled {border : 0;
+	line-height: 2.5;
+	padding: 0 20px;
+	font-size: 1rem;
+	text-align: center;
+	color: white;
+	text-shadow: 1px 1px 1px #000;
+	border-top-right-radius: 2px;
+	border-radius: 5px;
+	background-color: #2C2C96;
+}
+
+.navbar {
+	margin-left: 80PX;
+}
+
+.Communicate h1{
+	color: #161637;
+	font-size:64px;
+	line-height: 1.15;
+	font-weight: bold;
+}
+
+.Communicate {
+	padding-top: 9.9rem;
+	width: 552px;
+	height: 402px;
+	margin-left: 100PX;
+}
+
+.Communicate p{
+	font-size: 1.25rem;
+}
+
+.examples {
+    border-color: #2C2C96;
+	padding: 0 20px;
+	line-height: 2.4;
+	text-align: center;
+	color: #2C2C96;
+	border-radius: 7px;
+	background-color: white;
+}
+
+
+.parent {
+	display: flex;
+	flex-direction: row;
+}
+
+.images {
+	padding-top: 5rem;
+}
+
+body{
+	background-color: white;
+}
+
+.blue{
+	display: block;
+	background-color: #d5f3ff;
+	padding: 5rem 0;
+	color: #161637;
+}
+
+.biaoti{
+	margin-top: .3rem;
+	margin-bottom: 4rem;
+	text-align: center;
+	font-size: .75rem;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #151582;
+	letter-spacing: .1em;
+	margin: 0 0 1rem;
+	line-height: 1.15;
+}
+
+.tuliaojihe{
+    margin: 0 -1.9rem -.5rem;
+    padding-top: 0.5rem;
+    padding-right: 1.9rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1.9rem;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.white{
+    display: block;
+	background-color: white;
+	padding: 5rem 0;
+	color: black;
+	margin: 5.5rem auto;
+	width: 1440px;
+	height: 456px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 100px 40px 40px 100px;
+}
+
+.zuo{
+	display: block;
+	width: 416px;
+	height: 240px;
+	margin-left: 20px;
+}
+
+.you{
+	margin: 100px;
+}
+
+.blue1 {
+	display: block;
+	background-color: #d5f3ff;
+	padding: 5rem 0;
+	color: black;
+	margin: 5.5rem auto;
+	width: 1440px;
+	height: 550px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 100px 40px 100px 100px;
+}
+
+.zuo1{
+	display: block;
+    margin: 0px;
+}
+
+.you2{
+	display: block;
+	width: 416px;
+	height: 240px;
+	margin-left: 100px;
+}
+
+.bloc{
+	background-color: #d5f3ff
+}
+
+.same{
+	color: #151582;
+	text-align: center;
+	letter-spacing: 1rem;
+	font-weight: 700px;
+}
+
+.biaoti1{
+	margin-top: .3rem;
+    padding: 100px 100px 20px 100px;
+	margin-bottom: 2rem;
+	text-align: center;
+	font-size: .75rem;
+	text-transform: uppercase;
+	font-weight: 700;
+	color: #151582;
+	letter-spacing: .1em;
+	margin: 0 0 1rem;
+	line-height: 1.15;
+	background-color: #a4e5ff;
+}
+
+.bas{
+	display: block;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	align-items: flex-start;
+	flex-wrap: wrap;
+	margin-top: 0;
+	padding: 20px;
+	line-height: 2.5;
+	background-color: white;
+}
+
+.product{
+	display: block;
+}
+
+#button-addon2{
+	background-color: #2C2C96;
+	color: white;
+	width:30%;
+}
+
+.form-control{
+	width: 70%;
+}
+
+.carousel-caption h3{
+	color: #161637
+}
+
+.carousel-caption p{
+	color: #161637
+}
+
+.carousel-inner img {
+      width: 100%;
+  }
+
+.blue2{
+	display: block;
+	background-color: #a4e5ff;
+	padding-top:100px;
+	padding-bottom: 10px;
+	color: #161637;
+}
+
+.blue3{
+	display: block;
+	background-color: #a4e5ff;
+	padding-top:50px;
+	padding-bottom: 10px;
+}
+
+.bas2 {
+	display: flex;
+
+	justify-content: space-between;
+}
